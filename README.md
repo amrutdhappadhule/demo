@@ -1,2 +1,3 @@
 # demo
-this is my first git repositiry.
+This is my first git repositiry.
+Author - Amrut Dhappadhule
